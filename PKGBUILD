@@ -2,8 +2,8 @@
 # See COPYING for license details.
 
 pkgname=hosthunter
-pkgver=134.68b9bc4
-pkgrel=3
+pkgver=158.553f1c7
+pkgrel=1
 pkgdesc='A recon tool for discovering hostnames using OSINT techniques.'
 groups=('blackarch' 'blackarch-recon')
 arch=('any')
